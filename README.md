@@ -1,9 +1,7 @@
 # Node Server + Koa + React BoilerPlate
 
 ## Getting Started
-- Clone the repository
-```
-git clone --depth=1 https://github.com/javieraviles/node-typescript-koa-rest.git <project_name>
+
 ```
 - Install dependencies
 ```
